@@ -123,6 +123,13 @@ li {
 	display: block;
 	margin: auto;
 }
+#hammer-image {
+	vertical-align: top;
+	position: relative;
+	width: 500px;
+	display: block;
+	margin: auto;
+}
 
 /*#about p {
 	font-size: 32px;
